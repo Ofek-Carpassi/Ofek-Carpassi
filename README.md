@@ -17,7 +17,7 @@ I'm a 15-year-old coder living in Jerusalem, Israel. I've been coding since 2021
 - CSS
 
 ## 🥋 Hobbies
-When I'm not coding, you can find me training in MMA and Krav Maga, or playing games.
+When I'm not coding, you can find me training in MMA and Krav Maga, playing video games, or playing chess.
 
 ## 📫 How to reach me
 Feel free to connect with me on [GitHub]!
