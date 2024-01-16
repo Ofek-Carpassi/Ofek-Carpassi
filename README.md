@@ -5,7 +5,7 @@ I'm a 15-year-old coder living in Jerusalem, Israel. I've been coding since 2021
 ## 🎓 Education
 - **Open University of Israel** - Pursuing a Bachelor's degree in Computer Science.
 - **Magshim Cyber Program, IDF** - A national cyber education program.
-- **High School Ziv, Beit Ha Kerem, Jerusalem** - Currently studying here.
+- **High School Ziv, Jerusalem** - Currently studying here.
 
 ## 💻 Coding Skills
 - Python
