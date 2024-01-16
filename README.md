@@ -22,4 +22,4 @@ When I'm not coding, you can find me training in MMA and Krav Maga, or playing g
 ## 📫 How to reach me
 Feel free to connect with me on [GitHub]!
 
-> _"The function of education is to teach one to think intensively and to think critically. Intelligence plus character – that is the goal of true education."_ - Martin Luther King, Jr.
+> _"Just do it."_ - Nike.
