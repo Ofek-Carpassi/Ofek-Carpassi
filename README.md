@@ -7,14 +7,8 @@ I'm a 15-year-old coder living in Jerusalem, Israel. I've been coding since 2020
 - **Magshim Cyber Program, IDF** - A national cyber education program.
 - **High School Ziv, Jerusalem** - Currently studying here.
 
-## 💻 Coding Skills
-- Python
-- Java
-- C#
-- C
-- Java Script
-- HTML
-- CSS
+## 💻 My Skills:
+[![My Skills](https://skillicons.dev/icons?i=c,cs,clion,HTML,CSS,js,java,eclipse,idea,discord,py,pycharm,django,flask,linux,visualstudio,vscode,webstorm,windows,)](https://skillicons.dev)
 
 ## 🏎️ Hobbies
 When I'm not coding, you can find me watching Formula 1, training MMA and Krav Maga, playing video games, or playing chess.
