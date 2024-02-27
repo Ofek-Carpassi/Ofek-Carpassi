@@ -17,5 +17,6 @@ When I'm not coding, you can find me watching Formula 1, training MMA and Krav M
 Feel free to connect with me on my email or LinkedIn:
 ofek.carpassi@gmail.com      "Ofek Carpassi" on LinkedIn
 
+##
 > _"Just do it."_ - Nike.
 > _"Whatever it takes"_ MClaren F1 team.
