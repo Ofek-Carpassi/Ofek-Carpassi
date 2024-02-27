@@ -14,7 +14,8 @@ I'm a 15-year-old coder living in Jerusalem, Israel. I've been coding since 2020
 When I'm not coding, you can find me watching Formula 1, training MMA and Krav Maga, or playing video games.
 
 ## 📫 How to reach me
-Feel free to connect with me on [GitHub]!
+Feel free to connect with me on my email or LinkedIn:
+ofek.carpassi@gmail.com      "Ofek Carpassi" on LinkedIn
 
 > _"Just do it."_ - Nike.
 > _"Whatever it takes"_ MClaren F1 team.
