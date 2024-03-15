@@ -15,7 +15,7 @@ Check out some of the technologies and tools I'm proficient in:
 When I'm not immersed in lines of code, you'll often find me indulging in my passions outside the digital realm. I'm an avid Formula 1 enthusiast, eagerly following the exhilarating races and the latest updates from the paddock. Additionally, I find solace and strength in martial arts, regularly training in MMA and Krav Maga. You might also catch me at the gym, pushing my limits and staying fit.
 
 ## 📫 How to reach me
-I'm always open to connecting with like-minded individuals. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ofek-carpassi/).
+I'm always open to connecting with like-minded individuals. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ofek-carpassi-13b324243/).
 
 ##
 > _"Just do it."_ - Nike  
