@@ -1,6 +1,8 @@
 # Hello, I'm Ofek Carpassi! 👋
 
-Welcome to my profile! I'm a passionate 15-year-old coder hailing from the vibrant city of Jerusalem, Israel. Since 2020, I've been deeply immersed in the world of coding, continually exploring and honing my skills to become a proficient software engineer. Currently, I'm pursuing a Bachelor's degree in Computer Science at the Open University of Israel while actively participating in the Magshim Cyber Program—an esteemed initiative by the IDF dedicated to nurturing the next generation of cybersecurity experts.
+I'm a passionate 15-year-old coder hailing from the vibrant city of Jerusalem, Israel. 
+Since 2020, I've been deeply immersed in the world of coding, continually exploring and honing my skills to become a proficient software engineer. 
+Currently, I'm pursuing a Bachelor's degree in Computer Science at the Open University of Israel while actively participating in the Magshim Cyber Program—an esteemed initiative by the IDF dedicated to nurturing the next generation of cybersecurity experts.
 
 ## 🎓 Education
 - **Open University of Israel**: Pursuing a Bachelor's degree in Computer Science.
