@@ -10,7 +10,6 @@ Currently, I'm pursuing a Bachelor's degree in Computer Science at the Open Univ
 - **High School Ziv, Jerusalem**: Where my academic journey began and continues to thrive.
 
 ## 💻 My Skills
-Check out some of the technologies and tools I'm proficient in:  
 [![My Skills](https://skillicons.dev/icons?i=c,cs,clion,html,css,js,java,eclipse,idea,discord,py,pycharm,django,flask,linux,visualstudio,vscode,webstorm,windows,git,github,ubuntu)](https://skillicons.dev)
 
 ## 🏎️ Hobbies
