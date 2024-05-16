@@ -19,7 +19,7 @@ When I'm not immersed in lines of code, you'll often find me indulging in my pas
 I'm always open to connecting with like-minded individuals. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ofek-carpassi-13b324243/).
 
 ##
-> _"Whatever it takes."_ - McLaren F1 team
+> _"Whatever it takes."_ - McLaren F1 team <br>
 > _"If death is assured, why not to chase after your dreams?"_
 
 If you have any questions or would like to discuss potential opportunities, don't hesitate to get in touch. Looking forward to connecting with you!
