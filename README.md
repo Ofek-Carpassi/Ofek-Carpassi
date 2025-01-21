@@ -1,8 +1,8 @@
 # Hello, I'm Ofek Carpassi! 👋
 
-I'm a passionate 15-year-old coder from the city of Jerusalem, Israel. <br/>
+I'm a passionate 16-year-old coder from the city of Jerusalem, Israel. <br/>
 Since 2020, I've been immersed in coding, continually exploring and honing my skills to become a software engineer. <br/>
-Currently, I'm pursuing a Bachelor's degree in Computer Science at the Open University of Israel while actively participating in the Magshim Cyber Program—an esteemed initiative by the IDF dedicated to nurturing the next generation of cybersecurity experts.
+I'm pursuing a Bachelor's degree in Computer Science at the Open University of Israel while actively participating in the Magshim Cyber Program—an esteemed initiative by the IDF dedicated to nurturing the next generation of cybersecurity experts.
 
 ## 🎓 Education
 - **Open University of Israel**: Pursuing a Bachelor's degree in Computer Science.
@@ -16,7 +16,7 @@ Currently, I'm pursuing a Bachelor's degree in Computer Science at the Open Univ
 When I'm not immersed in lines of code, you'll often find me indulging in my passions outside the digital realm. I'm an avid Formula 1 enthusiast, eagerly following the exhilarating races and the latest updates from the paddock. Additionally, I find solace and strength in martial arts, regularly training in MMA and Krav Maga. You might also catch me at the gym, pushing my limits and staying fit.
 
 ## 📫 How to reach me
-I'm always open to connecting with like-minded individuals. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ofek-carpassi-13b324243/).
+I'm always open to connecting with like-minded individuals. Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/ofek-carpassi-13b324243/).
 
 ##
 > _"Whatever it takes."_ - McLaren F1 team <br>
