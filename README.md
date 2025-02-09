@@ -10,7 +10,7 @@ I'm pursuing a Bachelor's degree in Computer Science at the Open University of I
 - **High School Ziv, Jerusalem**: Where my academic journey began and continues to thrive.
 
 ## 💻 My Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cs,clion,html,css,js,java,eclipse,idea,discord,py,pycharm,django,flask,linux,visualstudio,vscode,webstorm,windows,git,github,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,clion,html,css,js,java,eclipse,idea,discord,py,pycharm,django,flask,linux,visualstudio,vscode,webstorm,windows,git,github,ubuntu,kubuntu)](https://skillicons.dev)
 
 ## 🏎️ Hobbies
 When I'm not immersed in lines of code, you'll often find me indulging in my passions outside the digital realm. I'm an avid Formula 1 enthusiast, eagerly following the exhilarating races and the latest updates from the paddock. Additionally, I find solace and strength in martial arts, regularly training in MMA and Krav Maga. You might also catch me at the gym, pushing my limits and staying fit.
