@@ -9,8 +9,8 @@ I'm pursuing a Bachelor's degree in Computer Science at the Open University of I
 - **Magshim Cyber Program, IDF**: A national IDF cyber education program.
 - **High School Ziv, Jerusalem**: Where my academic journey began and continues to thrive.
 
-## 💻 My Skills
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,clion,html,css,js,java,eclipse,idea,discord,py,pycharm,django,flask,linux,visualstudio,vscode,webstorm,windows,git,github,ubuntu,kubuntu)](https://skillicons.dev)
+## 💻 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ofek-Carpassi&theme=tokyonight&hide=batchfile)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏎️ Hobbies
 When I'm not immersed in lines of code, you'll often find me indulging in my passions outside the digital realm. I'm an avid Formula 1 enthusiast, eagerly following the exhilarating races and the latest updates from the paddock. Additionally, I find solace and strength in martial arts, regularly training in MMA and Krav Maga. You might also catch me at the gym, pushing my limits and staying fit.
