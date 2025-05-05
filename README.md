@@ -9,7 +9,7 @@ I'm pursuing a Bachelor's degree in Computer Science at the Open University of I
 - **Magshim Cyber Program, IDF**: A national IDF cyber education program.
 - **High School Ziv, Jerusalem**: Where my academic journey began and continues to thrive.
 
-## 💻 Most Used Languages
+## 💻 Most Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ofek-Carpassi&theme=tokyonight&hide=batchfile)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏎️ Hobbies
